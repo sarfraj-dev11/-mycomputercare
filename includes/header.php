@@ -21,6 +21,7 @@ function products_url($slug = '') {
   <meta name="description" content="<?php echo isset($page_desc) ? $page_desc : 'MyComputerCare is an authorized US reseller of trusted computer security software, hardware, and accessories. Every purchase includes 24/7 post-sale technician assistance.'; ?>">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="<?php echo SITE_URL . '/' . basename($_SERVER['PHP_SELF']); ?>">
+  <link rel="icon" href="assets/images/icons/favicon.ico" type="image/x-icon">
   <!-- Open Graph -->
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="<?php echo SITE_NAME; ?>">
@@ -57,11 +58,14 @@ function products_url($slug = '') {
 <header class="site-header" id="site-header">
   <div class="container header-inner">
     <a href="<?php echo isset($depth) ? $depth : ''; ?>index.php" class="logo">
-      <div class="logo-icon"><i class="fas fa-laptop-medical"></i></div>
-      <div class="logo-text">
+      <div class="logo-icon">
+        <img src="../assets/images/icons/MyComputerCare logo.png" alt="MyComputerCare Logo">
+        <!-- <i class="fas fa-laptop-medical"></i> -->
+    </div>
+      <!-- <div class="logo-text">
         <span class="logo-name">MyComputerCare</span>
         <span class="logo-tag">Authorized Reseller</span>
-      </div>
+      </div> -->
     </a>
 
     <nav class="main-nav" id="main-nav">

@@ -47,6 +47,7 @@ include 'includes/header.php';
       <p class="pd-category"><i class="fas fa-tag"></i> <?php echo htmlspecialchars($p['category']); ?></p>
       <div class="pd-price">$<?php echo htmlspecialchars($p['price']); ?></div>
       <p class="pd-short-desc"><?php echo htmlspecialchars($p['short_desc']); ?></p>
+      <p class="product-pricing">(Pricing may vary depending on your region.)</p>
 
       <div class="pd-cta-group">
         <a href="tel:<?php echo SITE_PHONE_RAW; ?>" class="btn btn-primary btn-lg pd-cta">
@@ -93,7 +94,8 @@ include 'includes/header.php';
 <!-- What It Fixes -->
 <section class="section pd-problems-section">
   <div class="container">
-    <h2 class="section-title">Problems This Product Solves</h2>
+    <h2 class="section-title product-problems-sections">Problems This Product Solves</h2>
+    <p class="product-problems-sections-subheading">We sell products only and do not provide technical support services</p>
     <div class="problems-grid">
       <?php foreach($p['problem_solved'] as $prob): ?>
       <div class="problem-card">

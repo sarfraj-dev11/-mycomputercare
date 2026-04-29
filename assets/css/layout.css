@@ -57,10 +57,10 @@
 }
 
 .logo-icon {
-  width: 40px;
+  width: 80px;
   height: 40px;
   border-radius: var(--r-md);
-  background: var(--primary);
+  /* background: var(--primary); */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -292,7 +292,7 @@
   margin-bottom: .8rem;
 }
 
-.footer-logo .logo-icon { background: var(--primary) }
+/* .footer-logo .logo-icon { background: var(--primary) } */
 .footer-logo .logo-name { color: #0D1B0E }
 .footer-logo .logo-tag  { color: #3D5A42 }
 
