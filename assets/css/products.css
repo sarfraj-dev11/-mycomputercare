@@ -23,7 +23,7 @@
 .filter-btn:hover {
   border-color: var(--primary-l);
   color: var(--primary);
-  background: #DCFCE7;
+  background: #c0ded9;
 }
 
 .filter-btn.active {
@@ -54,7 +54,7 @@
 .product-card:hover {
   transform: translateY(-4px);
   box-shadow: var(--shadow-lg);
-  border-color: #A8CCEF;
+  border-color: #b2c2bf;
 }
 
 .product-badge {
@@ -73,7 +73,7 @@
 }
 
 .product-img-wrap {
-  background: #F5F9FF;
+  background: #eaece5;
   height: 195px;
   display: flex;
   align-items: center;
@@ -188,7 +188,7 @@
 }
 
 .pd-image-wrap {
-  background: #F5F9FF;
+  background: #eaece5;
   border: 1px solid var(--border);
   border-radius: var(--r-lg);
   padding: 2.5rem;
@@ -307,8 +307,8 @@
   display: flex;
   align-items: flex-start;
   gap: .95rem;
-  background: #DCFCE7;
-  border: 1px solid #BBF7D0;
+  background: #c0ded9;
+  border: 1px solid #b2c2bf;
   border-radius: var(--r-md);
   padding: 1.05rem;
 }
@@ -352,7 +352,7 @@
 }
 
 .problem-card:hover {
-  border-color: #A8CCEF;
+  border-color: #b2c2bf;
   box-shadow: var(--shadow-sm)
 }
 

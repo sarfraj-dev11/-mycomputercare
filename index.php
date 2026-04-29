@@ -141,7 +141,7 @@ include 'includes/header.php';
         <div class="usp-icon"><i class="fas fa-headset"></i></div>
         <h3>24/7 Setup assistance</h3>
         <p>Our certified technicians are available to help you install, activate, and configure your purchase — included with every order.</p>
-        <div class="usp-highlight-badge">24/7 Included</div>
+        <div class="usp-highlight-badge">24/7 Support</div>
       </div>
       <div class="usp-card">
         <div class="usp-icon"><i class="fas fa-rotate-left"></i></div>
