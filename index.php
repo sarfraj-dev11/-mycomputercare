@@ -3,7 +3,7 @@ require_once 'includes/config.php';
 require_once 'includes/db.php';
 
 $page_title = 'Home';
-$page_desc  = 'MyComputerCare is an authorized US reseller of McAfee, Bitdefender, Malwarebytes,  TP-Link and more. Every purchase includes 24/7 post-sale technician assistance.';
+$page_desc  = 'MyComputerCare is an authorized US reseller of McAfee, Bitdefender, Malwarebytes,  TP-Link and more. Every purchase includes 24/7 post-sale assistance.';
 $featured   = get_featured_products(6);
 
 include 'includes/header.php';
@@ -29,7 +29,7 @@ include 'includes/header.php';
       <p class="hero-subtitle">
         Genuine software, hardware &amp; accessories from the brands you trust —
         McAfee, Bitdefender, Malwarebytes,  TP-Link &amp; more. Every purchase includes
-        24/7 setup & post-sale technician assistance.
+        setup & post-sale assistance.
       </p>
       <div class="hero-actions">
         <a href="products.php" class="btn btn-primary btn-lg">
@@ -141,7 +141,7 @@ include 'includes/header.php';
         <div class="usp-icon"><i class="fas fa-headset"></i></div>
         <h3>24/7 Setup assistance</h3>
         <p>Our certified technicians are available to help you install, activate, and configure your purchase — included with every order.</p>
-        <div class="usp-highlight-badge">24/7 Included</div>
+        <div class="usp-highlight-badge">24/7 Support</div>
       </div>
       <div class="usp-card">
         <div class="usp-icon"><i class="fas fa-rotate-left"></i></div>

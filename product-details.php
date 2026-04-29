@@ -91,6 +91,51 @@ include 'includes/header.php';
   </div>
 </section>
 
+<!-- How to Purchase -->
+<section class="section pd-how-to-buy-section">
+  <div class="container">
+    <h2 class="section-title">How to Purchase From Us</h2>
+    <p class="section-subtitle">Simple, secure, and transparent — here's how it works:</p>
+    <div class="how-to-buy-steps">
+      <div class="buy-step">
+        <div class="buy-step-number">1</div>
+        <div class="buy-step-content">
+          <strong>Find Your Product</strong>
+          <p>Browse our catalog and select the product that fits your needs.</p>
+        </div>
+      </div>
+      <div class="buy-step">
+        <div class="buy-step-number">2</div>
+        <div class="buy-step-content">
+          <strong>Call Our Sales Person</strong>
+          <p>Reach out to our sales team directly to get expert guidance.</p>
+        </div>
+      </div>
+      <div class="buy-step">
+        <div class="buy-step-number">3</div>
+        <div class="buy-step-content">
+          <strong>Discuss Variants</strong>
+          <p>Talk through available versions, licenses, and options with our team.</p>
+        </div>
+      </div>
+      <div class="buy-step">
+        <div class="buy-step-number">4</div>
+        <div class="buy-step-content">
+          <strong>Receive Official Pricing via Email</strong>
+          <p>We send you a formal pricing quote before any commitment is made.</p>
+        </div>
+      </div>
+      <div class="buy-step">
+        <div class="buy-step-number">5</div>
+        <div class="buy-step-content">
+          <strong>Secure Payment &amp; Invoice</strong>
+          <p>Complete your payment securely and receive an official invoice on your email.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <!-- What It Fixes -->
 <section class="section pd-problems-section">
   <div class="container">
