@@ -72,7 +72,7 @@
 .about-icon-card:hover {
   transform: translateY(-3px);
   box-shadow: var(--shadow);
-  border-color: #86EFAC;
+  border-color: #b2c2bf;
 }
 
 .about-icon-card i {
@@ -144,8 +144,8 @@
 .contact-link-lg:hover { color: var(--primary-h) }
 
 .help-anchor {
-  border-color: #BBF7D0;
-  background: #DCFCE7;
+  border-color: #b2c2bf;
+  background: #c0ded9;
 }
 
 .help-anchor h3 { color: var(--primary) }
