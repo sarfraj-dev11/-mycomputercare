@@ -87,6 +87,8 @@
   max-width: 72%;
   object-fit: contain;
   transition: var(--t);
+    mix-blend-mode: multiply;
+
 }
 
 .product-card:hover .product-img-wrap img {
@@ -202,6 +204,7 @@
   max-height: 260px;
   max-width: 100%;
   object-fit: contain;
+  mix-blend-mode: multiply;
 }
 
 .pd-badge {
