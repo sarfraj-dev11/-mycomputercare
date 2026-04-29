@@ -61,7 +61,7 @@ include 'includes/header.php';
         <!-- Description -->
       <div class="pd-block">
         <h3><i class="fas fa-circle-info"></i> Description</h3>
-       <p class="pd-short-desc"><?php echo htmlspecialchars($p['description1']); ?></p>
+       <p class="pd-short-desc" style="margin-bottom: 1.4rem;"><?php echo htmlspecialchars($p['description1']); ?></p>
        <p class="pd-short-desc"><?php echo htmlspecialchars($p['description2']); ?></p>
       </div>
 
