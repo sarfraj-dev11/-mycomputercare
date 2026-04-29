@@ -89,7 +89,9 @@
   transition: var(--t);
 }
 
-.product-card:hover .product-img-wrap img { transform: scale(1.04) }
+.product-card:hover .product-img-wrap img {
+  transform: scale(1.04)
+}
 
 .product-card-body {
   padding: 1.15rem 1.2rem;
@@ -120,7 +122,11 @@
   margin-bottom: .7rem;
 }
 
-.product-problems { display: flex; flex-wrap: wrap; gap: .35rem }
+.product-problems {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem
+}
 
 .problem-tag {
   font-size: .68rem;
@@ -134,7 +140,10 @@
   gap: .28rem;
 }
 
-.problem-tag i { color: var(--success); font-size: .62rem }
+.problem-tag i {
+  color: var(--success);
+  font-size: .62rem
+}
 
 .product-card-footer {
   padding: .8rem 1.2rem;
@@ -153,8 +162,17 @@
 }
 
 /* ── No Results ── */
-.no-results { text-align: center; padding: 4rem; color: var(--text-3) }
-.no-results i { font-size: 2.8rem; margin-bottom: 1rem; display: block }
+.no-results {
+  text-align: center;
+  padding: 4rem;
+  color: var(--text-3)
+}
+
+.no-results i {
+  font-size: 2.8rem;
+  margin-bottom: 1rem;
+  display: block
+}
 
 /* ── Product Detail ── */
 .product-detail-grid {
@@ -164,7 +182,10 @@
   align-items: start;
 }
 
-.pd-image-col { position: sticky; top: 6rem }
+.pd-image-col {
+  position: sticky;
+  top: 6rem
+}
 
 .pd-image-wrap {
   background: #F5F9FF;
@@ -203,8 +224,16 @@
   margin-bottom: .4rem;
 }
 
-.pd-title    { font-size: 1.8rem; margin-bottom: .45rem }
-.pd-category { font-size: .8rem; color: var(--text-3); margin-bottom: .9rem }
+.pd-title {
+  font-size: 1.8rem;
+  margin-bottom: .45rem
+}
+
+.pd-category {
+  font-size: .8rem;
+  color: var(--text-3);
+  margin-bottom: .9rem
+}
 
 .pd-price {
   font-size: 2rem;
@@ -216,9 +245,15 @@
 
 .pd-short-desc {
   color: var(--text-2);
-  margin-bottom: 1.4rem;
+  /* margin-bottom: 1.4rem; */
   line-height: 1.72;
   font-size: .935rem;
+}
+
+.product-pricing {
+  margin-bottom: 1.4rem;
+  color: lightslategray;
+  font-size: 13px;
 }
 
 .pd-cta-group {
@@ -244,9 +279,15 @@
   gap: .45rem;
 }
 
-.pd-block h3 i { color: var(--primary-l) }
+.pd-block h3 i {
+  color: var(--primary-l)
+}
 
-.pd-list { display: flex; flex-direction: column; gap: .42rem }
+.pd-list {
+  display: flex;
+  flex-direction: column;
+  gap: .42rem
+}
 
 .pd-list li {
   font-size: .855rem;
@@ -256,7 +297,11 @@
   gap: .45rem;
 }
 
-.pd-list li i { color: var(--success); margin-top: .2rem; flex-shrink: 0 }
+.pd-list li i {
+  color: var(--success);
+  margin-top: .2rem;
+  flex-shrink: 0
+}
 
 .pd-assistance-usp {
   display: flex;
@@ -268,9 +313,25 @@
   padding: 1.05rem;
 }
 
-.pd-assistance-usp i { font-size: 1.4rem; color: var(--primary); flex-shrink: 0; margin-top: .1rem }
-.pd-assistance-usp strong { display: block; margin-bottom: .2rem; font-size: .88rem; color: var(--text) }
-.pd-assistance-usp p { font-size: .8rem; color: var(--text-2); margin: 0 }
+.pd-assistance-usp i {
+  font-size: 1.4rem;
+  color: var(--primary);
+  flex-shrink: 0;
+  margin-top: .1rem
+}
+
+.pd-assistance-usp strong {
+  display: block;
+  margin-bottom: .2rem;
+  font-size: .88rem;
+  color: var(--text)
+}
+
+.pd-assistance-usp p {
+  font-size: .8rem;
+  color: var(--text-2);
+  margin: 0
+}
 
 /* ── Problems / Fixes Grid ── */
 .problems-grid {
@@ -290,7 +351,10 @@
   transition: var(--t);
 }
 
-.problem-card:hover { border-color: #A8CCEF; box-shadow: var(--shadow-sm) }
+.problem-card:hover {
+  border-color: #A8CCEF;
+  box-shadow: var(--shadow-sm)
+}
 
 .problem-icon {
   width: 34px;
@@ -303,7 +367,9 @@
   flex-shrink: 0;
 }
 
-.problem-icon i { color: var(--warn) }
+.problem-icon i {
+  color: var(--warn)
+}
 
 .problem-text {
   flex: 1;
@@ -319,9 +385,16 @@
   letter-spacing: .06em;
 }
 
-.problem-text span:last-child { font-size: .83rem; font-weight: 500 }
+.problem-text span:last-child {
+  font-size: .83rem;
+  font-weight: 500
+}
 
-.problem-arrow { color: var(--text-3); font-size: .72rem; flex-shrink: 0 }
+.problem-arrow {
+  color: var(--text-3);
+  font-size: .72rem;
+  flex-shrink: 0
+}
 
 .solution-label {
   font-size: .76rem;
@@ -342,9 +415,14 @@
   max-width: 700px;
 }
 
-.specs-table { width: 100%; border-collapse: collapse }
+.specs-table {
+  width: 100%;
+  border-collapse: collapse
+}
 
-.specs-table tr:not(:last-child) { border-bottom: 1px solid var(--border-lt) }
+.specs-table tr:not(:last-child) {
+  border-bottom: 1px solid var(--border-lt)
+}
 
 .specs-table th {
   background: var(--bg-alt);
@@ -363,14 +441,34 @@
 }
 
 /* ── PD Description ── */
-.pd-desc-inner { max-width: 740px; margin: 0 auto; text-align: center }
-.pd-desc-inner p { color: var(--text-2); font-size: 1rem; line-height: 1.82 }
+.pd-desc-inner {
+  max-width: 740px;
+  margin: 0 auto;
+  text-align: center
+}
+
+.pd-desc-inner p {
+  color: var(--text-2);
+  font-size: 1rem;
+  line-height: 1.82
+}
 
 /* ── Related/shared section backgrounds ── */
-.pd-problems-section { background: var(--bg) }
-.pd-specs-section    { background: #fff }
-.pd-desc-section     { background: var(--bg-alt) }
-.related-section     { background: var(--bg) }
+.pd-problems-section {
+  background: var(--bg)
+}
+
+.pd-specs-section {
+  background: #fff
+}
+
+.pd-desc-section {
+  background: var(--bg-alt)
+}
+
+.related-section {
+  background: var(--bg)
+}
 
 /* ── Sticky CTA mobile ── */
 .sticky-cta-mobile {
@@ -383,7 +481,20 @@
   padding: .9rem 1.2rem;
   background: #fff;
   border-top: 1px solid var(--border);
-  box-shadow: 0 -4px 20px rgba(15,90,45,.1);
+  box-shadow: 0 -4px 20px rgba(15, 90, 45, .1);
 }
 
-.sticky-call-btn { width: 100%; justify-content: center }
+.sticky-call-btn {
+  width: 100%;
+  justify-content: center
+}
+
+.product-problems-sections {
+  margin-bottom: 0;
+}
+
+.product-problems-sections-subheading {
+  margin-bottom: 0.65rem;
+  font-size: 14px;
+  color: darkslategray;
+}
