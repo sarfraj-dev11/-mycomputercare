@@ -61,8 +61,8 @@ include 'includes/header.php';
           <span>Networking</span>
         </div>
         <div class="hero-card hc-4">
-          <i class="fas fa-print"></i>
-          <span>Printers &amp; Ink</span>
+          <i class="fas fa-desktop"></i>
+          <span>Computers &amp; Printers</span>
         </div>
       </div>
     </div>
