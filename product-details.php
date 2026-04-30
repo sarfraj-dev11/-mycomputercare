@@ -47,7 +47,7 @@ include 'includes/header.php';
       <p class="pd-category"><i class="fas fa-tag"></i> <?php echo htmlspecialchars($p['category']); ?></p>
       <div class="pd-price">$<?php echo htmlspecialchars($p['price']); ?></div>
       <p class="pd-short-desc"><?php echo htmlspecialchars($p['short_desc']); ?></p>
-      <p class="product-pricing">(Pricing may vary depending on your region.)</p>
+      <p class="product-pricing">(* Pricing may vary depending on your region and product variants.)</p>
 
       <div class="pd-cta-group">
         <a href="tel:<?php echo SITE_PHONE_RAW; ?>" class="btn btn-primary btn-lg pd-cta">
