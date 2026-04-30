@@ -113,7 +113,7 @@
       "Anti-Ransomware": "Yes",
       "Webcam Protection": "Yes"
     },
-    "image": "assets/images/products/bitdefender.png",
+    "image": "assets/images/products/bitdefender total  - security.webp",
     "related": [
       "malwarebytes-premium",
       "mcafee-total-protection",
@@ -135,6 +135,8 @@
       "Apps not opening",
       "Update stuck"
     ],
+    "description1":"Optimize your PC with CCleaner Professional. Speed up your system, fix issues, and enhance performance with automated cleaning and registry fixes.",
+    "description2":"CCleaner Professional is your go-to tool for keeping your PC running smoothly and efficiently. Designed for users who want a faster, more responsive system, CCleaner Professional helps clean up unnecessary files, fix system errors, and free up space on your computer. With automatic cleaning, scheduled tasks, and registry cleaning, CCleaner makes it easier than ever to maintain your PC’s performance. Whether you’re dealing with system crashes, slow performance, or apps that won’t open, CCleaner quickly resolves these issues by cleaning out junk files, fixing broken registries, and optimizing system settings. It even helps with stuck updates, ensuring your PC is up-to-date and functioning well. The 1-Year Pro License provides full access to all features, including priority support.",
     "whats_included": [
       "1-Year CCleaner Pro License",
       "1 PC",
@@ -170,6 +172,8 @@
       "Apps not opening",
       "Update stuck"
     ],
+    "description1":"Maximize PC performance with iolo System Mechanic. Speed up startup, clean privacy traces, and optimize your system for smoother and faster operation.",
+    "description2":"iolo System Mechanic is the all-in-one solution to improve the performance, speed, and security of your PC. With unlimited home PC support, this software is designed to keep your computers running at peak performance by fixing errors, removing junk files, and optimizing startup times. It features an advanced Startup Optimizer to prevent unnecessary programs from slowing down your boot time, and a Privacy Cleaner to remove sensitive data that could compromise your privacy. Whether you're dealing with sluggish performance, system freezes, or unwanted programs hogging resources, iolo System Mechanic helps ensure that your PC runs at its best. With support for Windows 7, 8, 10, and 11, it’s a must-have tool for anyone looking to keep their PC running fast and secure over time.",
     "whats_included": [
       "1-Year iolo System Mechanic License",
       "Unlimited home PCs",
@@ -204,6 +208,8 @@
       "Apps not opening",
       "Update stuck"
     ],
+    "description1":"Boost your PC’s performance with AVG TuneUp. Clean junk files, remove bloatware, and optimize startup for a faster, smoother system experience.",
+    "description2":"AVG TuneUp is designed to keep your PC running at peak performance by removing clutter, fixing errors, and optimizing your system. With support for up to 10 devices, AVG TuneUp is perfect for home users with multiple PCs.",
     "whats_included": [
       "1-Year AVG TuneUp License",
       "Up to 10 devices",
@@ -240,6 +246,8 @@
       "System shutdown",
       "Update stuck"
     ],
+    "description1":"Reinstall or upgrade your system to Windows 11 with this bootable USB. Includes a genuine product key and a full installation guide.",
+    "description2":"Upgrade or reinstall your operating system with the Windows 11 Home/Pro USB from Microsoft. This bootable USB drive contains a genuine product key for either the Home or Pro edition of Windows 11 (choose at checkout), making it perfect for users who need a fresh installation or want to upgrade their current system to the latest version.",
     "whats_included": [
       "Bootable Windows 11 USB Drive",
       "Genuine Product Key Card",
@@ -275,6 +283,8 @@
       "System crash",
       "System shutdown"
     ],
+    "description1":"Restore your Windows 10 or 11 system with ease using a bootable recovery USB. Includes a 32 GB drive and step-by-step recovery guide for quick repairs.",
+    "description2":"The Windows Recovery USB Drive from MyComputerCare is the ultimate solution for restoring your system when it fails to start, crashes, or shuts down unexpectedly. This bootable USB (32 GB) allows you to perform crucial recovery operations on Windows 10 and 11 systems. Whether you need to reset, repair, or reinstall your operating system, this USB drive has you covered with built-in recovery modes for each scenario. Along with the USB, you’ll receive a step-by-step recovery guide, ensuring you can perform the recovery process quickly and without hassle. Plus, you’ll have 24/7 technician assistance and post-sale support, so you’re never alone during the recovery process.",
     "whats_included": [
       "Bootable Recovery USB (32 GB)",
       "Step-by-step recovery guide",
@@ -286,7 +296,7 @@
       "Compatible": "Windows 10 & 11",
       "Recovery Modes": "Reset, Repair, Reinstall"
     },
-    "image": "assets/images/products/windows-recovery-usb.png",
+    "image": "assets/images/products/Recovery USB - Drive single.webp",
     "related": [
       "windows-11-home-pro-usb",
       "samsung-ssd-980",
@@ -308,6 +318,8 @@
       "System not starting",
       "System slow"
     ],
+    "description1":"Upgrade your system speed with the Samsung 980 1TB NVMe SSD. Enjoy ultra-fast boot times, rapid file transfers, and improved overall performance.",
+    "description2":"The Samsung 980 1TB NVMe SSD is designed to deliver a major performance upgrade for your PC or laptop. Built with PCIe 3.0 x4 and NVMe 1.4 technology, it offers significantly faster data access compared to traditional hard drives and SATA SSDs. With read speeds up to 3,500 MB/s and write speeds up to 3,000 MB/s, this SSD ensures quick boot times, faster application loading, and smooth multitasking.",
     "whats_included": [
       "Samsung 980 1TB NVMe SSD",
       "Mounting screw",
@@ -349,6 +361,8 @@
       "24/7 Installation assistance",
       "Post-sale technician assistance"
     ],
+    "description1":"Reliable 2TB storage solution with stable performance and high capacity for everyday computing, backups, and file storage needs.",
+    "description2":"The WD Blue 2TB HDD is a dependable storage solution designed for everyday computing needs. With a large 2TB capacity, it provides ample space for documents, media files, games, and backups. Built with a 7200 RPM speed and a 256MB cache, this hard drive ensures smooth data access and consistent performance for general use and system upgrades.",
     "specs": {
       "Capacity": "2 TB",
       "Interface": "SATA 6 Gb/s",
@@ -379,6 +393,8 @@
       "System not starting",
       "System slow"
     ],
+    "description1":"Expand your storage with the Seagate Barracuda 2TB HDD. High-speed 7200 RPM performance and reliable storage for all your data needs.",
+    "description2":"The Seagate Barracuda 2TB HDD is the perfect choice for those looking for reliable and high-performance storage. With a spacious 2TB capacity, this hard drive is ideal for storing large files, games, videos, and much more. The 7200 RPM spin rate and 256MB cache ensure fast read and write speeds, enhancing your system’s overall performance and reducing delays during file transfers. This 3.5-inch HDD comes with a SATA 6 Gb/s interface for fast data transfers, and it’s built for reliability, backed by a 2-year warranty. Whether you're upgrading your existing storage or replacing a failing drive, the Seagate Barracuda offers exceptional performance at a great price.",
     "whats_included": [
       "Seagate Barracuda 2TB HDD",
       "Mounting screws",
@@ -393,7 +409,7 @@
       "Cache": "256 MB",
       "Warranty": "2 Years"
     },
-    "image": "assets/images/products/seagate-barracuda.png",
+    "image": "assets/images/products/Seagate Barracuda - 2TB hard drive.webp",
     "related": [
       "wd-blue-hdd",
       "samsung-ssd-980",
@@ -420,6 +436,8 @@
       "24/7 Installation assistance",
       "Post-sale technician assistance"
     ],
+    "description1":"Upgrade your computer's performance with the Crucial BX500 SSD, designed to deliver fast and reliable speed. With read speeds up to 540MB/s and write speeds up to 500MB/s, the BX500 offers an instant performance boost for all your computing tasks.",
+    "description2":"Built with Micron’s thousands of hours of pre-release validation and rigorous qualification tests, the BX500 has been thoroughly vetted for reliability. This award-winning SSD is engineered to improve system responsiveness, making boot-up and file loading faster than ever.",
     "specs": {
       "Capacity": "1 TB",
       "Interface": "SATA 6 Gb/s",
@@ -428,7 +446,7 @@
       "Sequential Write": "510 MB/s",
       "Warranty": "5 Years"
     },
-    "image": "assets/images/products/crucial-mx500.png",
+    "image": "assets/images/products/Crucial MX500 1TB SSD.jpg",
     "related": [
       "samsung-ssd-980",
       "wd-blue-hdd",
@@ -455,12 +473,14 @@
       "24/7 Technician assistance",
       "Post-sale assistance"
     ],
+    "description1":"OEM-quality replacement screens for laptops. Simply specify your model at checkout for the perfect fit.",
+    "description2":"Upgrade or replace your laptop's display with a high-quality LCD/LED panel from MyComputerCare. Our replacement screens are compatible with major laptop brands such as Dell, HP, Lenovo, Asus, and Acer. Wherever possible, we provide Full HD IPS panels for vibrant, clear visuals. Just provide your laptop model number at checkout to ensure a seamless fit.",
     "specs": {
       "Resolution": "1920x1080 FHD (model dependent)",
       "Panel Type": "IPS / TN (model dependent)",
       "Compatibility": "Dell, HP, Lenovo, Asus, Acer"
     },
-    "image": "assets/images/products/lcd-led-screen.png",
+    "image": "assets/images/products/Laptop LCDLED Replacement - Screen.webp",
     "related": [
       "laptop-battery",
       "keyboard-logitech"
@@ -485,13 +505,15 @@
       "24/7 Setup & Installation assistance",
       "Post-sale technician assistance"
     ],
+    "description1":"High-quality replacement battery packs for your laptop. Compatible with major brands like Dell, HP, and Lenovo, ensuring reliable power once again.",
+    "description2":"Restore the battery life of your laptop with a reliable, high-quality replacement battery pack from MyComputerCare. Whether you're dealing with a battery that isn't charging or one that holds a poor charge, our replacement batteries are built to last. Specifically designed for Dell, HP, and Lenovo laptops, these batteries come with a 12-month warranty and are CE / RoHS certified for your peace of mind.",
     "specs": {
       "Compatible Brands": "Dell, HP, Lenovo",
       "Warranty": "12 Months",
       "Certification": "CE / RoHS Certified",
       "Capacity": "Model dependent"
     },
-    "image": "assets/images/products/laptop-battery.png",
+    "image": "assets/images/products/Laptop Replacement -Battery.webp",
     "related": [
       "lcd-led-screen",
       "keyboard-logitech"
@@ -516,6 +538,8 @@
       "24/7 Setup & Installation assistance",
       "Post-sale technician assistance"
     ],
+    "description1":"Compact and versatile, the Logitech K380 Wireless Keyboard connects seamlessly to multiple devices and delivers a reliable, quiet typing experience",
+    "description2":"tay productive and comfortable with the Logitech K380 Wireless Keyboard, a compact and lightweight solution for typing on multiple devices. Using Bluetooth 3.0 technology, this keyboard can pair with up to three devices at once, allowing you to easily switch between your laptop, tablet, or smartphone with just the press of a button.",
     "specs": {
       "Connection": "Bluetooth 3.0",
       "Devices": "Up to 3",
@@ -523,7 +547,7 @@
       "OS": "Windows, macOS, Chrome OS, iOS, Android",
       "Warranty": "2 Years"
     },
-    "image": "assets/images/products/keyboard-logitech.png",
+    "image": "assets/images/products/Logitech Wireless Keyboard- (K380).webp",
     "related": [
       "wifi-router-tplink",
       "laptop-battery",
@@ -544,6 +568,8 @@
       "Network disconnect",
       "WiFi printer issue"
     ],
+    "description1":"Upgrade to blazing-fast WiFi 6 speeds with the TP-Link Archer AX55, offering dual-band coverage and impressive speeds up to 3000 Mbps for a seamless online experience.",
+    "description2":"Experience the future of home networking with the TP-Link Archer AX55 WiFi 6 Router. Designed to handle the demands of modern homes with multiple connected devices, this router offers ultra-fast speeds of up to 3000 Mbps (AX3000), including 2402 Mbps on 5 GHz and 574 Mbps on 2.4 GHz bands.",
     "whats_included": [
       "TP-Link Archer AX55 Router",
       "Power Adapter",
@@ -580,6 +606,8 @@
       "Network disconnect",
       "WiFi printer issue"
     ],
+    "description1":"Boost your WiFi coverage with the TP-Link RE550 WiFi Range Extender, offering dual-band speeds up to 1900 Mbps and a simple setup to eliminate dead zones.",
+    "description2":"Extend your WiFi network to every corner of your home with the TP-Link RE550 WiFi Range Extender. Designed to improve your network coverage, the RE550 offers dual-band speeds up to 1900 Mbps, ensuring that you can stream, game, and work without interruption in any room.",
     "whats_included": [
       "TP-Link RE550 Extender",
       "24/7 Setup & Installation assistance",
@@ -593,7 +621,7 @@
       "Setup": "WPS / Web UI",
       "Warranty": "2 Years"
     },
-    "image": "assets/images/products/wifi-extender.png",
+    "image": "assets/images/products/TP-Link WiFi Range Extender - (RE550).webp",
     "related": [
       "wifi-router-tplink",
       "hp-printer-allinone"
@@ -614,6 +642,8 @@
       "Print job stuck",
       "WiFi printer issue"
     ],
+    "description1":"Efficient all-in-one printing solution that prints, scans, and copies with Wi-Fi and Bluetooth connectivity. Reliable, fast, and ready for home office or personal use.",
+    "description2":"The HP ENVY All-in-One Printer combines versatility with ease of use, making it the ideal choice for home offices and personal use. This multi-function printer can print, scan, and copy, allowing you to handle all your everyday printing tasks with one device. With Wi-Fi, USB, and Bluetooth connectivity, it provides flexible printing options whether you're connecting from your laptop, smartphone, or tablet.",
     "whats_included": [
       "HP ENVY Printer",
       "Black & Color Ink Cartridges",
@@ -651,6 +681,8 @@
       "Driver missing",
       "Printer not responding"
     ],
+    "description1":"Automatically update drivers with Driver Booster Pro for faster performance, smoother gameplay, and improved system stability. Supports up to 3 PCs!",
+    "description2":"Keep your PC running at its best with Driver Booster Pro. This powerful driver update tool scans and installs the latest drivers for your system, ensuring your computer runs smoothly and is protected from potential issues caused by outdated drivers. With access to a database of over 8 million drivers, Driver Booster Pro provides the most accurate updates for all your devices, improving performance and system stability.",
     "whats_included": [
       "1-Year Driver Booster Pro License",
       "3 PCs",
@@ -664,7 +696,7 @@
       "Scan Speed": "60% faster than manual",
       "Game Boost": "Yes"
     },
-    "image": "assets/images/products/driver-booster.png",
+    "image": "assets/images/products/Driver Booster-  Pro.webp",
     "related": [
       "driver-easy-pro",
       "ccleaner-pro",
@@ -685,6 +717,8 @@
       "Driver missing",
       "Printer not responding"
     ],
+    "description1":"Automatically find and install the correct drivers for your PC. Driver Easy Pro supports up to 3 PCs and offers offline scanning for convenience.",
+    "description2":"Keep your system running smoothly and efficiently with Driver Easy Pro. This advanced driver management tool scans your PC for missing or outdated drivers and provides the latest updates to keep your devices performing at their best. Supporting up to 3 PCs, Driver Easy Pro is the perfect solution for households or small offices with multiple computers. Driver Easy Pro also solves common PC issues like missing drivers and printer not responding by quickly fixing the problems that can lead to device malfunctions or slow performance.",
     "whats_included": [
       "1-Year Driver Easy Pro License",
       "3 PCs",
@@ -697,7 +731,7 @@
       "Offline Scan": "Yes",
       "WHQL Certified Drivers": "Yes"
     },
-    "image": "assets/images/products/driver-easy-pro.png",
+    "image": "assets/images/products/Driver Easy - Pro.webp",
     "related": [
       "driver-booster",
       "ccleaner-pro",
@@ -718,6 +752,9 @@
       "Customer wants coverage",
       "Coverage renewal"
     ],
+    "description1":"Keep your devices protected with a seamless renewal of antivirus coverage for McAfee, Bitdefender, or Malwarebytes. Delivered digitally within 24 hours.",
+    "description2":"Ensure your digital security is always up to date with the Annual Antivirus Renewal Plan. This convenient plan allows you to quickly renew your antivirus coverage for trusted brands like McAfee, Bitdefender, and Malwarebytes. You’ll receive a 1-Year Renewal Activation Code delivered directly to your inbox within 24 hours, ensuring you can continue to protect your devices without interruption.",
+
     "whats_included": [
       "1-Year Renewal Activation Code",
       "Delivery within 24 hours",
@@ -729,7 +766,7 @@
       "Delivery": "Email (digital code)",
       "Turnaround": "Within 24 hours"
     },
-    "image": "assets/images/products/antivirus-renewal.png",
+    "image": "assets/images/products/Annual Antivirus Renewal-  Plan.webp",
     "related": [
       "malwarebytes-premium",
       "mcafee-total-protection",
@@ -749,6 +786,8 @@
     "problem_solved": [
       "Customer wants coverage"
     ],
+    "description1":"Get peace of mind with a 12-month extended warranty plan, covering all hardware purchased from MyComputerCare. Enjoy priority support and quick resolution for any failures.",
+    "description2":"Protect your valuable hardware investment with the Extended Hardware Warranty Plan from MyComputerCare. This plan extends the warranty coverage for all hardware purchased from us, giving you an additional 12 months of security. If any covered failure occurs, you’ll receive a replacement or credit, ensuring your equipment is always up and running. With priority technician assistance, you’ll get fast support when you need it most. Whether you need help via phone or email, we aim to respond within 1 business day, providing you with efficient solutions to any issues that may arise.",
     "whats_included": [
       "12-Month Extended Coverage Certificate",
       "Priority technician assistance",
@@ -761,7 +800,7 @@
       "Claim Process": "Phone or email",
       "Response Time": "Within 1 business day"
     },
-    "image": "assets/images/products/extended-warranty.png",
+    "image": "assets/images/products/Extended Hardware Warranty - Plan.webp",
     "related": [
       "annual-antivirus-renewal",
       "samsung-ssd-980",
