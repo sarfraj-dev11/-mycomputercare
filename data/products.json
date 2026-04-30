@@ -22,15 +22,14 @@
       "24/7 Setup & Installation assistance",
       "Post-sale technician assistance"
     ],
-    "description1":"McAfee Antivirus provides strong all-in-one protection with features like safe browsing (WebAdvisor) and a Vulnerability Scanner that detects risks before they become threats. It helps block malicious sites, phishing attacks, and keeps your system updated against the latest vulnerabilities.",
-    "description2":"It also focuses on privacy and performance with tools like File Lock, Shredder, and QuickClean, while Safe Family and Identity Theft Protection add extra layers for family safety and personal data security—making it a complete, easy-to-use security solution.",
+    "description1": "McAfee Antivirus provides strong all-in-one protection with features like safe browsing (WebAdvisor) and a Vulnerability Scanner that detects risks before they become threats. It helps block malicious sites, phishing attacks, and keeps your system updated against the latest vulnerabilities.",
+    "description2": "It also focuses on privacy and performance with tools like File Lock, Shredder, and QuickClean, while Safe Family and Identity Theft Protection add extra layers for family safety and personal data security—making it a complete, easy-to-use security solution.",
     "how_to_use": [
       "Go to mcafee.com/activate and enter your product key",
       "Register or log in to your account",
       "Download and install McAfee Antivirus",
       "Agree to the license and note your serial number"
     ],
-    
     "specs": {
       "Devices": "Unlimited",
       "OS": "Windows, macOS, iOS, Android",
@@ -61,8 +60,8 @@
       "Files locked alerts",
       "Fake security alerts"
     ],
-    "description1":"Malwarebytes Anti-Malware Premium delivers advanced, real-time protection against malware, spyware, rootkits, and ransomware. Its proactive technology blocks both known and unknown threats, prevents files from being locked, and stops exploits that target software vulnerabilities—keeping your system secure at all times.",
-    "description2":"It also enhances safe browsing by blocking malicious websites, infected links, and harmful ads. With its fast, intelligent scanning mode, Malwarebytes detects active threats without slowing down your system, ensuring strong protection with minimal impact on performance.",
+    "description1": "Malwarebytes Anti-Malware Premium delivers advanced, real-time protection against malware, spyware, rootkits, and ransomware. Its proactive technology blocks both known and unknown threats, prevents files from being locked, and stops exploits that target software vulnerabilities—keeping your system secure at all times.",
+    "description2": "It also enhances safe browsing by blocking malicious websites, infected links, and harmful ads. With its fast, intelligent scanning mode, Malwarebytes detects active threats without slowing down your system, ensuring strong protection with minimal impact on performance.",
     "whats_included": [
       "1-Year Malwarebytes Premium License",
       "3 device coverage",
@@ -99,6 +98,8 @@
       "Files locked alerts",
       "Fake security alerts"
     ],
+    "description1": " Bitdefender Total Security 1 User 1 Year offers complete, all-in-one protection for Windows, macOS, Android, and iOS devices. It guards against viruses, malware, ransomware, phishing, and other online threats with advanced real-time security, while keeping your system fast and responsive.",
+    "description2": "It also includes essential features like privacy tools, parental controls, and anti-theft protection, all managed from a simple, user-friendly dashboard—giving you reliable security and peace of mind across all your devices. ",
     "whats_included": [
       "1-Year Bitdefender Total Security License",
       "5 device coverage",
@@ -147,7 +148,7 @@
       "Scheduled Cleaning": "Yes",
       "Registry Cleaner": "Yes"
     },
-    "image": "assets/images/products/ccleaner-pro.png",
+    "image": "assets/images/products/CCleaner -Professional.webp",
     "related": [
       "iolo-system-mechanic",
       "avg-tuneup",
@@ -181,7 +182,7 @@
       "Startup Optimizer": "Yes",
       "Privacy Cleaner": "Yes"
     },
-    "image": "assets/images/products/iolo-system-mechanic.png",
+    "image": "assets/images/products/iolo System - Mechanic.webp",
     "related": [
       "ccleaner-pro",
       "avg-tuneup",
@@ -216,7 +217,7 @@
       "Disk Cleaner": "Yes",
       "Bloatware Remover": "Yes"
     },
-    "image": "assets/images/products/avg-tuneup.png",
+    "image": "assets/images/products/AVG - TuneUp.webp",
     "related": [
       "ccleaner-pro",
       "iolo-system-mechanic",
@@ -356,7 +357,7 @@
       "Cache": "256 MB",
       "Warranty": "2 Years"
     },
-    "image": "assets/images/products/wd-blue-hdd.png",
+    "image": "assets/images/products/WD Blue 2TB - HDD.webp",
     "related": [
       "samsung-ssd-980",
       "seagate-barracuda",
