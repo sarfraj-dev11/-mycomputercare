@@ -9,8 +9,8 @@ define('SITE_LEGAL_NAME',   'Solvent Technology LLC');
 define('SITE_TAGLINE', 'Authorized Reseller of Trusted Computer & Security Products');
 define('SITE_URL',     'https://www.mycomputercare.com');
 define('SITE_EMAIL',   'assistance@mycomputercare.com');
-define('SITE_PHONE',        '+1 (888) 958-4443');
-define('SITE_PHONE_RAW',    '18889584443');
+define('SITE_PHONE',        '(855) 460-3303');
+define('SITE_PHONE_RAW',    '+18554603303');
 define('SITE_OPTOUT_PHONE',     SITE_PHONE);
 define('SITE_OPTOUT_PHONE_RAW', SITE_PHONE_RAW);
 
